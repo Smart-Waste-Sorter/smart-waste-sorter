@@ -1,0 +1,10 @@
+opencv-python==5.0.0.93
+numpy==2.2.6
+Pillow==12.3.0
+ultralytics==8.4.173
+pyttsx3==2.99
+pywin32==312
+comtypes==1.4.17
+matplotlib==3.11.2
+pytest==9.1.1
+pyinstaller>=6.10,<7

@@ -1,0 +1,7 @@
+{
+  "voice_enabled": true,
+  "voice_volume": 0.8,
+  "voice_rate": 180,
+  "voice_id": null,
+  "voice_include_confidence": true
+}

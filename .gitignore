@@ -1,2 +1,20 @@
 .venv/
 .venv/
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# IDE settings
+.vscode/
+
+# Temporary files
+*.log
+
